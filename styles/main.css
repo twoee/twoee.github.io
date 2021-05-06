@@ -1816,3 +1816,7 @@ Orginal Style from ethanschoonover.com/solarized (c) Jeremy Hull <sourdrums@gmai
           background: RGBA(245,186,178,0.14)!important;
         }
          
+      .site-footer div:last-child {
+    display: none;
+}
+    
